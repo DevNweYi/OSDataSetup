@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/SetupRootLayout"
+    android:orientation="vertical"
+    tools:context=".ui.category.NewCategoryActivity">
+
+    <EditText android:id="@+id/etCategoryName"
+        style="@style/EditText"
+        android:hint="@string/enter_category_name" />
+
+    <Button android:id="@+id/btnSave"
+        style="@style/PrimaryButton"
+        android:text="@string/save"
+        android:layout_marginTop="10dp"/>
+
+</LinearLayout>

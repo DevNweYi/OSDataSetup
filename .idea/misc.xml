@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/NYA/OSDM Project/OSDataSetup/app/src/main/res/menu/activity_main_drawer.xml" value="0.1265625" />
+        <entry key="..\:/NYA/OSDM Project/OSDataSetup/app/src/main/res/menu/main.xml" value="0.1265625" />
+        <entry key="..\:/NYA/OSDM Project/OSDataSetup/app/src/main/res/menu/sort_delete_context.xml" value="0.1265625" />
+        <entry key="..\:/NYA/OSDM_Project/OSDataSetup/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.2203125" />
+        <entry key="..\:/NYA/OSDM_Project/OSDataSetup/app/src/main/res/drawable/side_nav_bar.xml" value="0.12760416666666666" />
+        <entry key="..\:/NYA/OSDM_Project/OSDataSetup/app/src/main/res/layout/activity_main.xml" value="0.2033514492753623" />
+        <entry key="..\:/NYA/OSDM_Project/OSDataSetup/app/src/main/res/layout/activity_new_category.xml" value="0.18" />
+        <entry key="..\:/NYA/OSDM_Project/OSDataSetup/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/NYA/OSDM_Project/OSDataSetup/app/src/main/res/layout/content_main.xml" value="0.25" />
+        <entry key="..\:/NYA/OSDM_Project/OSDataSetup/app/src/main/res/layout/customer_fragment.xml" value="0.128125" />
+        <entry key="..\:/NYA/OSDM_Project/OSDataSetup/app/src/main/res/layout/fragment_category.xml" value="0.17447916666666666" />
+        <entry key="..\:/NYA/OSDM_Project/OSDataSetup/app/src/main/res/layout/fragment_customer.xml" value="0.17447916666666666" />
+        <entry key="..\:/NYA/OSDM_Project/OSDataSetup/app/src/main/res/layout/fragment_dashboard.xml" value="0.19701086956521738" />
+        <entry key="..\:/NYA/OSDM_Project/OSDataSetup/app/src/main/res/layout/fragment_employee.xml" value="0.17447916666666666" />
+        <entry key="..\:/NYA/OSDM_Project/OSDataSetup/app/src/main/res/layout/fragment_gallery.xml" value="0.19021739130434784" />
+        <entry key="..\:/NYA/OSDM_Project/OSDataSetup/app/src/main/res/layout/item_category.xml" value="0.25" />
+        <entry key="..\:/NYA/OSDM_Project/OSDataSetup/app/src/main/res/layout/nav_header_main.xml" value="0.19021739130434784" />
+        <entry key="..\:/NYA/OSDM_Project/OSDataSetup/app/src/main/res/menu/activity_main_drawer.xml" value="0.5" />
+        <entry key="..\:/NYA/OSDM_Project/OSDataSetup/app/src/main/res/menu/main.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

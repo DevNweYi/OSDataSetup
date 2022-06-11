@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_dashboard">
+
+    <fragment
+        android:id="@+id/nav_dashboard"
+        android:name="com.devnweyi.osdatasetup.ui.dashboard.DashboardFragment"
+        android:label="@string/menu_dashboard"
+        tools:layout="@layout/fragment_dashboard" />
+
+    <fragment
+        android:id="@+id/nav_category"
+        android:name="com.devnweyi.osdatasetup.ui.category.CategoryFragment"
+        android:label="@string/menu_category"
+        tools:layout="@layout/fragment_category" />
+
+    <fragment
+        android:id="@+id/nav_sub_category"
+        android:name="com.devnweyi.osdatasetup.ui.subcategory.SubCategoryFragment"
+        android:label="@string/menu_sub_category"
+        tools:layout="@layout/fragment_sub_category" />
+
+    <fragment
+        android:id="@+id/nav_product"
+        android:name="com.devnweyi.osdatasetup.ui.product.ProductFragment"
+        android:label="@string/menu_product"
+        tools:layout="@layout/fragment_product" />
+
+    <fragment
+        android:id="@+id/nav_supplier"
+        android:name="com.devnweyi.osdatasetup.ui.supplier.SupplierFragment"
+        android:label="@string/menu_supplier"
+        tools:layout="@layout/fragment_supplier" />
+
+    <fragment
+        android:id="@+id/nav_customer"
+        android:name="com.devnweyi.osdatasetup.ui.customer.CustomerFragment"
+        android:label="@string/menu_customer"
+        tools:layout="@layout/fragment_customer" />
+
+    <fragment
+        android:id="@+id/nav_employee"
+        android:name="com.devnweyi.osdatasetup.ui.employee.EmployeeFragment"
+        android:label="@string/menu_employee"
+        tools:layout="@layout/fragment_employee" />
+
+    <fragment
+        android:id="@+id/nav_user"
+        android:name="com.devnweyi.osdatasetup.ui.user.UserFragment"
+        android:label="@string/menu_user"
+        tools:layout="@layout/fragment_user" />
+
+    <fragment
+        android:id="@+id/nav_shop_setting"
+        android:name="com.devnweyi.osdatasetup.ui.shopsetting.ShopSettingFragment"
+        android:label="@string/menu_shop_setting"
+        tools:layout="@layout/fragment_shop_setting" />
+
+    <fragment
+        android:id="@+id/nav_setting"
+        android:name="com.devnweyi.osdatasetup.ui.setting.SettingFragment"
+        android:label="@string/menu_setting"
+        tools:layout="@layout/fragment_setting" />
+</navigation>
